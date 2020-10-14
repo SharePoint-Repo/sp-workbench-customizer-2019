@@ -1,0 +1,21 @@
+{
+  "@pnp/generator-spfx": {
+    "framework": "none",
+    "pnpFramework": "none.plus",
+    "pnp-libraries": [],
+    "pnp-ci": "no-devops",
+    "pnp-vetting": [],
+    "spfxenv": "onprem19",
+    "pnp-testing": []
+  },
+  "@microsoft/generator-sharepoint": {
+    "environment": "onprem19",
+    "framework": "none",
+    "isCreatingSolution": true,
+    "version": "1.11.0",
+    "libraryName": "sp-workbench-customizer",
+    "libraryId": "b682d49b-cf05-4428-b152-184d0d612d25",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
